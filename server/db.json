@@ -1,0 +1,341 @@
+{
+    "posts":[
+        {
+            "id":1,
+         "images":"https://media.istockphoto.com/id/1356510492/photo/determined-athletic-woman-running-on-treadmill-while-practicing-in-a-gym.jpg?b=1&s=170667a&w=0&k=20&c=-oSJVLfk41FvBMQ5zDo_ASdPpXCQWxsDbxvIDzJgPtI=",
+          "alt":"fitness girl",
+          "title":"crossfit workout",
+          "text":"push your limits",
+          "link":"https://google.com",
+          "anchor":"read-more >"
+
+        },
+        {
+            "id":2,
+            "images":"https://images.unsplash.com/photo-1557330359-ffb0deed6163?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjMxfHxmaXRuZXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+             "alt":"fitness equipment",
+             "title":"new gym apparel",
+             "text":"look good,feel good",
+             "link":"https://google.com",
+             "anchor":"read-more >"
+   
+           },
+           {
+            "id":3,
+            "images":"https://avada.theme-fusion.com/fitness/wp-content/uploads/sites/130/2019/11/blog4@2x-600x386.jpg",
+             "alt":"shake",
+             "title":"The best protein shake",
+             "text":"Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.",
+             "link":"https://google.com",
+             "anchor":"read-more >"
+   
+           },
+           {
+            "id":4,
+            "images":"https://avada.theme-fusion.com/fitness/wp-content/uploads/sites/130/2019/11/blog1@2x-600x386.jpg",
+             "alt":"fitness girl",
+             "title":"Ultimate cardio workout",
+             "text":"Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.",
+             "link":"https://google.com",
+             "anchor":"read-more >"
+   
+           },
+           
+           {
+            "id":5,
+            "images":"https://media.istockphoto.com/id/1366052585/photo/shot-of-a-group-of-friends-hanging-out-before-working-out-together.jpg?b=1&s=170667a&w=0&k=20&c=z5JTIJ3k0QgJCEMPpJQ_JvnGzN_izKQgJRB5YKHgFV0=",
+             "alt":"equipment",
+             "title":"team tranning",
+             "text":"find a partner",
+             "link":"https://google.com",
+             "anchor":"read-more >"
+   
+           },
+           {
+            "id":6,
+            "images":"https://media.istockphoto.com/id/894242814/photo/cheerful-male-athlete-talking-to-his-friend-on-exercising-training-in-a-health-club.jpg?b=1&s=170667a&w=0&k=20&c=VwJ7RVbW2OAHdtB7YqUlVwGsJwabFQCE8MHa9cBMBDk=",
+             "alt":"equipment",
+             "title":"team tranning",
+             "text":"find a partner",
+             "link":"https://google.com",
+             "anchor":"read-more >"
+   
+           }
+             
+               
+
+    ],
+
+"products":[
+      {
+        "id":1,
+        "photos":"./images/products/drink-1.jpg",
+        "alt":"black shoes",
+        "title":"New juices available now",
+        "description":"Ac neque, pretium feugiat tincidunt mauris enim, velit semper in nunc.",
+        "link":"https://google.com",
+        "anchor":"read more >"
+
+        
+      },
+      {
+        "id":2,
+        "photos":"https://avada.theme-fusion.com/fitness/wp-content/uploads/sites/130/2019/11/blog2@2x-400x258.jpg",
+        "alt":"pink shoes",
+        "title":"Tips to find training partners",
+        "description":"Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "link":"https://google.com",
+        "anchor":"read more >"
+
+        
+      },
+      {
+        "id":3,
+        "photos":"https://avada.theme-fusion.com/fitness/wp-content/uploads/sites/130/2019/11/blog6@2x-400x258.jpg",
+        "alt":"dumbbell",
+        "title":"20 best healthy recipes",
+        "description":"Molestie malesuada. Praesent sapien massa, convallis a pellentesque nec.",
+        "link":"https://google.com",
+        "anchor":"read more >"
+
+        
+      }
+    ],
+    "photos":[
+      {
+        "id":1,
+        "title_1":"Take control of your health",
+        "title_2":"Curabitur non nulla sit amet nisl tempus convallis quis ac lectus dolor sit amet.",
+        "btn":"visit my Youtube channel >"
+      }
+    ],
+    
+    "photo_1":[
+      {
+        "id":1,
+        "title_1":"I’ve failed over and over again in my life. And that is why I succeed.",
+        "title_2":"Arcu auctor gravida nisl, congue sit nisi tincidunt eget proin. In lacinia lacus donec sed massa in ipsum eros, tristique. Gravida suspendisse etiam in iaculis",
+        "btn":"buy avada today > "
+      }
+
+    ],
+
+
+
+
+
+
+    "about":[
+      {
+        "id":1,
+        "images":"./images/about/clock-1.jpg",
+        "alt":"clock",
+        "title_1":"team tranning",
+        "title_2":"find a partner",
+        "text":" vestiblum, crabitur eu sem nibh ultrices sit nulla adipiscing.nisl site fames amet senectus eget sed duis vehicula.tristique.",
+        "link":"https://google.com",
+        "anchor":"find a partner &gt;"
+
+      }, 
+       {
+        "id":2,
+        "images":"./images/about/dambel.jpg",
+        "alt":"dambel",
+        "title_1":"crossfit workout",
+        "title_2":"push your limits",
+        "text":" vestiblum, crabitur eu sem nibh ultrices sit nulla adipiscing.nisl site fames amet senectus eget sed duis vehicula.tristique.",
+        "link":"https://google.com",
+        "anchor":"learn about crossfit &gt;"
+
+      },
+      {
+        "id":3,
+        "images":"./images/about/lose-weight.jpg",
+        "alt":"weight-lose",
+        "title_1":"weight lose plan",
+        "title_2":"shed those pounds",
+        "text":" vestiblum, crabitur eu sem nibh ultrices sit nulla adipiscing.nisl site fames amet senectus eget sed duis vehicula.tristique.",
+        "link":"https://google.com",
+        "anchor":"schedule a workout &gt;"
+
+      }
+
+    ],
+    "store":[
+       {
+        "id":1,
+        "images":"./images/store/boxing-gear.jpg",
+        "alt":"box-gear",
+        "title_1":"boxing gear",
+        "title_2":"$32.00"
+       },
+       {
+        "id":2,
+        "images":"./images/store/weights.jpg",
+        "alt":"weights",
+        "title_1":"multiple weights",
+        "title_2":"$20.00-$40.00"
+       },
+       {
+        "id":3,
+        "images":"./images/store/running-shoes.jpg",
+        "alt":"running-shoes",
+        "title_1":"running shoes",
+        "title_2":"$99.00"
+       },
+       {
+        "id":4,
+        "images":"./images/store/dumbbells.jpg",
+        "alt":"dumbbells",
+        "title_1":"Various dumbbells",
+        "title_2":"$10.00-$30.00"
+       },
+       {
+        "id":5,
+        "images":"./images/store/water-bottle.jpg",
+        "alt":"water-bottle",
+        "title_1":"water bottle",
+        "title_2":"$18.00"
+       },
+       {
+        "id":6,
+        "images":"./images/store/yoga-ball.jpg",
+        "alt":"yoga-ball",
+        "title_1":"yoga ball",
+        "title_2":"$30.00"
+       }
+
+
+
+    ],
+
+    "playlist":[
+     {
+      "id":1,
+      "images":"./images/playlist/video1 (1).jpg",
+      "alt":"video-1",
+      "title_1":"Tights & plute workout",
+      "title_2":"Increase your mobility" 
+     },
+     {
+      "id":2,
+      "images":"./images/playlist/video1 (2).jpg",
+      "alt":"video-2",
+      "title_1":"Lift, firm & perk up",
+      "title_2":"Feal young again" 
+     },
+     {
+      "id":3,
+      "images":"./images/playlist/video1 (3).jpg",
+      "alt":"video-3",
+      "title_1":"Slim & trim your waist",
+      "title_2":"Shed those extra pounds" 
+     }
+    ],
+
+    "slider":[
+        { 
+            "id":1, 
+            "images":"./images/photos/wakeup.jpg",
+           
+            
+          
+            "alt":"fitness girl"
+           
+
+        },
+        { 
+          "id":2, 
+          "images":"./images/photos/pexels-andrea-piacquadio-3760275.jpg",
+           
+          "alt":"fitness girl"
+
+        },
+        { 
+          "id":3, 
+            "images":"./images/photos/elina-fairytale.jpg",
+            "alt":"fitness girl"
+
+        },
+        { 
+          "id":4, 
+          "images":"./images/photos/andrea-piacquadio-.jpg",
+          "alt":"fitness girl"
+
+        }
+        
+        
+    ],
+    
+    "sponser":[
+      {
+        "id":1,
+        "images":"./images/sponser/sponsor-1.png",
+        "alt":"yoga-studio",
+        "title":"Tristique aliquam in nullam habitasse nunc, amet vel consectetur. Nulla in suspendisse dolor,aliquet.",
+        "link":"visit yoga studio > ",
+        "anchor":"https://themeforest.net/item/avada-responsive-multipurpose-theme/2833226?irgwc=1&clickid=X-sVPkzjVxyNRFI2tpUC-QyXUkDSpGy1gX4ZS00&iradid=275988&irpid=1292887&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_1292887&utm_medium=affiliate&utm_source=impact_radius"
+
+      },
+      {
+        "id":2,
+        "images":"./images/sponser/sponsor-2.png",
+        "alt":"fitness-center",
+        "title":"Tristique aliquam in nullam habitasse nunc, amet vel consectetur. Nulla in suspendisse dolor,aliquet.",
+        "link":"join fitness center > ",
+        "anchor":"https://themeforest.net/item/avada-responsive-multipurpose-theme/2833226?irgwc=1&clickid=X-sVPkzjVxyNRFI2tpUC-QyXUkDSpGy1gX4ZS00&iradid=275988&irpid=1292887&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_1292887&utm_medium=affiliate&utm_source=impact_radius"
+
+      },
+      {
+        "id":3,
+        "images":"./images/sponser/sponsor-3.png",
+        "alt":"fitness-club",
+        "title":"Tristique aliquam in nullam habitasse nunc, amet vel consectetur. Nulla in suspendisse dolor,aliquet.",
+        "link":"learn about fc >",
+        "anchor":"https://themeforest.net/item/avada-responsive-multipurpose-theme/2833226?irgwc=1&clickid=X-sVPkzjVxyNRFI2tpUC-QyXUkDSpGy1gX4ZS00&iradid=275988&irpid=1292887&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_1292887&utm_medium=affiliate&utm_source=impact_radius"
+
+      },
+      {
+        "id":4,
+        "images":"./images/sponser/sponsor-4.png",
+        "alt":"power-gym",
+        "title":"Tristique aliquam in nullam habitasse nunc, amet vel consectetur. Nulla in suspendisse dolor,aliquet.",
+        "link":"learn about fc >",
+        "anchor":"https://themeforest.net/item/avada-responsive-multipurpose-theme/2833226?irgwc=1&clickid=X-sVPkzjVxyNRFI2tpUC-QyXUkDSpGy1gX4ZS00&iradid=275988&irpid=1292887&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_1292887&utm_medium=affiliate&utm_source=impact_radius"
+
+      }
+      
+    ],
+
+"sports":[
+     
+      
+      {
+        "id":1,
+        "images":"./images/sport/box-2.jpg",
+        "alt":"new gym apparel",
+        "title_1":"new gym apparel",
+        "title_2":"look good,feel good"
+        },
+        {
+          "id":2,
+          "images":"./images/sport/box-1.jpg",
+          "alt":"crossfit workout",
+          "title_1":"crossfit workout",
+          "title_2":"push your limits"
+        },
+      {
+        "id":3,
+        "images":"./images/sport/box-3.jpg",
+        "alt":"team tranning",
+        "title_1":"team tranning",
+        "title_2":"find a partner"
+      }
+     
+    
+    ]
+
+
+
+   
+}
